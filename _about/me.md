@@ -7,7 +7,7 @@ This page is about me!
 
 ![sunset](jakob-owens-uWbRcJSJLV8-unsplash.jpg)
 
-vvFor my image, I posted a picture of a sunset to my site as a representation of the things that I have been able to do during quarantine.
+For my image, I posted a picture of a sunset to my site as a representation of the things that I have been able to do during quarantine.
 In the beginning of quarantine, staying inside and learning how to limit social contact was very difficult; our society is not used
 to being limited socially, and after having come back for a week long retreat in Arkansas with all of my friends, I was defnitely not
 happy about having to be inside all the time. In March, I had to go back to San Antonio because my parents felt more at ease with my sister 
