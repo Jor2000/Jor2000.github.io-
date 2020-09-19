@@ -29,4 +29,4 @@ life' is a difficult adjustment that everyone has grow acustom to. The 'quaranti
 normal. Even though we have to wear masks out in public places, and continue campaigning for social distancing, ultimately we are all still human. Watching
 the sunset reminds that I am human.
 
-This paragraph [contains a link to my website](blog.freepeople.com/2015/02/beauty-sunset/)
+This paragraph [contains a link to my website](vans.com).
