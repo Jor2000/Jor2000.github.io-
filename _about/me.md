@@ -1,6 +1,9 @@
 ---
 layout: default
 title: About Me
+categories:
+-about
+-blog post
 ---
 
 This page is about me!
