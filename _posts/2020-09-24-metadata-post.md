@@ -18,4 +18,5 @@ as the markup activity last week. Metadata is what keeps everything in digital w
 in the way that metadata is utilized and received in both Jekyll and HTML. In Jekyll, if metadata is not included in a file, the
 resulting presentation of information given will not appear as changed. Metadata in Jekyll allows acess to HTML is a different story from 
 Jekyll; HTML is able to recongize or receive metadata based on the amount of tags that notify HTML of metadata. Without metadata, none
-of the data that we deal with in everyday life would be structured.
+of the data that we deal with in everyday life would be structured; the pieces of information that a user needed, would not be found so
+easily, rather the pieces of data displayed would be all over the place. 
