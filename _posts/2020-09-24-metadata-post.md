@@ -1,6 +1,6 @@
 ---
-layout: post
 title: All About Metadata: A Reflection
+layout: post
 ---
 
 In this week's class we learned all about metadata; what it is, what it does, and how it ultimately contributes to the digital
